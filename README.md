@@ -18,6 +18,8 @@
     * [Linux Academy](https://linuxacademy.com/)
     * [A Cloud Guru](https://acloud.guru/)
     * [Exam Collection](http://Www.examcollection.com)
+    * [PrepAwayExam](https://www.prepawayexam.com/)
+    * [Free Exam](https://www.freecram.com/)
 
     
 
